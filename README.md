@@ -6,7 +6,7 @@
 [![JWT](https://img.shields.io/badge/JWT-Secure-blue.svg)](https://jwt.io)  
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
 
-**AuthCrypto** est un service d'authentification moderne utilisant des JWT signés par une paire de clés RSA générée dynamiquement au démarrage. La vérification des tokens est déléguée à une API Gateway grâce à une clé publique exposée via un endpoint JWKS.
+**AsymAuthService** est un service d'authentification moderne utilisant des JWT signés par une paire de clés RSA générée dynamiquement au démarrage. La vérification des tokens est déléguée à une API Gateway grâce à une clé publique exposée via un endpoint JWKS.
 
 ---
 

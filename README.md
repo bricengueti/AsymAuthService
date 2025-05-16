@@ -2,7 +2,7 @@
 # 🔐 AsymAuthService
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen.svg)](https://spring.io/projects/spring-boot)  
-[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)  
+[![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)  
 [![JWT](https://img.shields.io/badge/JWT-Secure-blue.svg)](https://jwt.io)  
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
 

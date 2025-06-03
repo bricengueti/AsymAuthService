@@ -162,12 +162,6 @@ AuthCrypto/
 📜 Licence
 Distribué sous licence MIT. Voir LICENSE pour plus d’informations.
 
-perl
-Copier
-Modifier
-
-Souhaite-tu que je t’ajoute un schéma d’architecture ou un `docker-compose.yml` ?
-
 
 
 
